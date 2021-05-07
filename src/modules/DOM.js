@@ -6,6 +6,8 @@ const tempText = document.querySelector('.js-dataTemp');
 const cityText = document.querySelector('.js-cityName');
 const feelsTempText = document.querySelector('.js-feelsLike');
 const humidityText = document.querySelector('.js-humidity');
+const pressureText = document.querySelector('.js-pressure');
+const weatherText = document.querySelector('.js-weather');
 const { body } = document;
 
 const getUsedData = (data) => {
@@ -33,12 +35,21 @@ const updateCity = ({ cityName }) =>
   (cityText.childNodes[0].nodeValue = cityName);
 
 const updateHumidity = ({ humidity }) => (humidityText.textContent = humidity);
+const updatePressure = ({ pressure }) => {
+  pressureText.textContent = pressure;
+};
+
+const updateWeather = ({ weather }) => {
+  weatherText.textContent = getWeatherName(weather);
+};
 
 const updateElements = (resolveData) => {
   switchBackground(resolveData);
   updateTemp(resolveData);
   updateCity(resolveData);
   updateHumidity(resolveData);
+  updatePressure(resolveData);
+  updateWeather(resolveData);
 };
 
 const fetchCity = (cityName) => {
