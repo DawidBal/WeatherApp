@@ -1,3 +1,3 @@
 import DOM from './modules/DOM';
 
-DOM.init('Cracow');
+DOM.init('Cracow', 'metric');

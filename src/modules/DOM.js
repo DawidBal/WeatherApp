@@ -1,4 +1,5 @@
 import auth from './auth';
+import utilities from './utilities';
 
 // HTML Elements
 const { body } = document;
@@ -11,6 +12,7 @@ const humidityText = document.querySelector('.js-humidity');
 const pressureText = document.querySelector('.js-pressure');
 const printMsg = document.querySelector('.js-printMsg');
 const weatherText = document.querySelector('.js-weather');
+const switchUnitBtn = document.querySelector('.js-switch-unit');
 const weatherList = [
   'Drizzle',
   'Snow',
@@ -19,6 +21,8 @@ const weatherList = [
   'Clear',
   'Thunderstorm',
 ];
+
+let unit = 'metric';
 
 const toggleAnimation = (delay = 175, name) => {
   let timer;
@@ -89,23 +93,59 @@ const updateElements = (resolveData) => {
   updateWeather(resolveData);
 };
 
+const fetchCity = async (cityName, unit) => {
+  try {
+    const data = await auth.fetchData(cityName, unit);
+    updateElements(getUsedData(data));
+  } catch (error) {
+    printMessage('City name not found');
+  } finally {
+    cityInput.value = '';
+  }
+};
+
 const applyInputValue = ({ key }) => {
   if (key !== 'Enter') return;
   const cityName = cityInput.value;
-  auth.fetchData(cityName);
+  fetchCity(cityName, unit);
+};
+
+const convertUnit = (unit) => {
+  const temp = +tempText.childNodes[0].nodeValue;
+  const feelsLike = +feelsTempText.textContent;
+  switchUnitBtn.textContent =
+    unit === 'F' ? 'Switch to Celsius' : 'Switch to Fahrenheit';
+  const tempValue = utilities.convertTempTo(unit, temp);
+  const feelsLikeValue = utilities.convertTempTo(unit, feelsLike);
+  utilities.changeSymbolTo(unit);
+
+  return { temp: tempValue, feelsLike: feelsLikeValue };
+};
+
+const updateUnit = () => {
+  if (unit === 'metric') {
+    unit = 'imperial';
+    updateTemp(convertUnit('F'));
+  } else {
+    unit = 'metric';
+    updateTemp(convertUnit('C'));
+  }
 };
 
 // Events
 const fireEvents = () => {
   cityInput.addEventListener('keydown', applyInputValue);
   searchBtn.addEventListener('click', () => {
-    auth.fetchData(cityInput.value);
+    fetchCity(cityInput.value, unit);
   });
+  switchUnitBtn.addEventListener('click', updateUnit);
 };
 
-const init = (cityName) => {
-  auth.fetchData(cityName);
+const init = (cityName, unit) => {
+  fetchCity(cityName, unit);
   fireEvents();
 };
 
-export default { init, updateElements, getUsedData, printMessage, cityInput };
+export default {
+  init,
+};
