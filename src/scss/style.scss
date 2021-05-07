@@ -138,38 +138,38 @@ h3 {
 
 .rain,
 .drizzle {
-    background-image: url("../rainy.svg");
+    background-image: url("../images/rainy.svg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 .snow {
-    background-image: url("../snow.svg");
+    background-image: url("../images/snow.svg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 .clear,
 .sunny {
-    background-image: url("../clear.svg");
+    background-image: url("../images/clear.svg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 .clouds {
-    background-image: url("../cloudy.svg");
+    background-image: url("../images/cloudy.svg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 .thunderstorm {
-    background-image: url("../thunderstorm.svg");
+    background-image: url("../images/thunderstorm.svg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 .default {
-    background-image: url("../default.svg");
+    background-image: url("../images/default.svg");
     background-attachment: fixed;
     background-size: cover;
 }
