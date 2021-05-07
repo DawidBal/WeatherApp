@@ -1,46 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width='100' height='100' viewBox="0 0 1440 560">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width='100%25' height='100%25' viewBox="0 0 1440 560">
     <g mask="url(&quot;#SvgjsMask1169&quot;)" fill="none">
         <rect width="1440" height="560" x="0" y="0" fill="#0e2a47"></rect>
-        <path d="M1236 362L1235 704" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration: 1.6s; --delayTime: 0.3s"></path>
-        <path d="M735 403L734 155" stroke-width="3" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:0.9s; --delayTime: 0.5s"></path>
-        <path d="M881 294L880 36" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.13s; --delayTime: 0.8s"></path>
-        <path d="M1434 128L1433 315" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.5s; --delayTime: 0.21s"></path>
-        <path d="M651 392L650 573" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1s; --delayTime: 0.34s"></path>
-        <path d="M1173 17L1172 -376" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.2s; --delayTime: 0.18s"></path>
-        <path d="M395 529L394 149" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.14s; --delayTime: 0.26s"></path>
-        <path d="M151 178L150 496" stroke-width="3" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.41s; --delayTime: 0.54s"></path>
-        <path d="M597 141L596 393" stroke-width="5" stroke="url(#SvgjsLinearGradient1059)" stroke-linecap="round" class="Down" style="--rain-duration:1.55s;- -delayTime: 0.46s"></path>
-        <path d="M540 537L539 707" stroke-width="2" stroke="url(#SvgjsLinearGradient1059)" stroke-linecap="round" class="Down" style="--rain-duration:1.16s; --delayTime: 0.67s"></path>
-        <path d="M25 238L24 560" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.3s; --delayTime: 0.19s"></path>
-        <path d="M1248 178L1247 -227" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.61s; --delayTime: 0.34s"></path>
+        <path d="M1236 362L1235 704" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration: 2.6s; --delayTime: 0.3s"></path>
+        <path d="M735 403L734 155" stroke-width="3" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:3.9s; --delayTime: 0.5s"></path>
+        <path d="M881 294L880 36" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.13s; --delayTime: 1.8s"></path>
+        <path d="M1434 128L1433 315" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.5s; --delayTime: 0.21s"></path>
+        <path d="M651 392L650 573" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2s; --delayTime: 0.34s"></path>
+        <path d="M1173 17L1172 -376" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.2s; --delayTime: 0.18s"></path>
+        <path d="M395 529L394 149" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.14s; --delayTime: 0.96s"></path>
+        <path d="M151 178L150 496" stroke-width="3" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.41s; --delayTime: 1.54s"></path>
+        <path d="M597 141L596 393" stroke-width="5" stroke="url(#SvgjsLinearGradient1059)" stroke-linecap="round" class="Down" style="--rain-duration:2.55s;- -delayTime: 0.46s"></path>
+        <path d="M540 537L539 707" stroke-width="2" stroke="url(#SvgjsLinearGradient1059)" stroke-linecap="round" class="Down" style="--rain-duration:2.16s; --delayTime: 0.67s"></path>
+        <path d="M25 238L24 560" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.3s; --delayTime: 0.19s"></path>
+        <path d="M1248 178L1247 -227" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.61s; --delayTime: 0.34s"></path>
         <path d="M447 280L446 29" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.13s; --delayTime: 0.25s"></path>
-        <path d="M184 173L183 581" stroke-width="8" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.22s; --delayTime: 0.46s"></path>
+        <path d="M184 173L183 581" stroke-width="8" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.22s; --delayTime: 1.46s"></path>
         <path d="M1141 354L1140 615" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.13s; --delayTime: 0.34s"></path>
         <path d="M979 264L978 491" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.82s; --delayTime: 0.29s"></path>
         <path d="M80 403L79 615" stroke-width="8" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.61s; --delayTime: 0.33s"></path>
         <path d="M857 438L856 19" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.41s; --delayTime: 0.12s"></path>
-        <path d="M1150 516L1149 795" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:0.9s; --delayTime: 0.19s"></path>
+        <path d="M1150 516L1149 795" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.9s; --delayTime: 0.89s"></path>
+                <path d="M1389 553L1388 280" stroke-width="8" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 1.9s; --delayTime: 0.3s"></path>
+        <path d="M80 417L79 43" stroke-width="8" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 3s; --delayTime: 0.39s"></path>
+        <path d="M709 209L708 464" stroke-width="3" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 2.6s; --delayTime: 0.49s"></path>
+        <path d="M98 54L97 470" stroke-width="8" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 1.9s; --delayTime: 1.6s"></path>
+        <path d="M645 227L644 70" stroke-width="8" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 1.34s; --delayTime: 2.3s"></path>
+        <path d="M953 106L952 -94" stroke-width="2" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 1.98s; --delayTime: 0.98s"></path>
+        <path d="M689 40L688 -169" stroke-width="10" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 2.12s; --delayTime: 1.36s"></path>
+        <path d="M694 47L693 212" stroke-width="6" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 1.65s; --delayTime: 2.0s"></path>
+        <path d="M22 339L21 538" stroke-width="6" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 3s; --delayTime: 1.25s"></path>
+        <path d="M333 183L332 567" stroke-width="10" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 2.45s; --delayTime: 1.69s"></path>
+        <path d="M41 465L40 179" stroke-width="6" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 4.98s; --delayTime: 0.65s"></path>
+        <path d="M1167 291L1166 627" stroke-width="8" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 1.24s; --delayTime: 1.12s"></path>
+        <path d="M777 191L776 478" stroke-width="8" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 1.65s; --delayTime: 1s"></path>
+        <path d="M599 400L598 128" stroke-width="2" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 3.79s; --delayTime: 2.12s"></path>
+        <path d="M901 34L900 -313" stroke-width="3" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 2.4s; --delayTime: 3.2s"></path>
+        <path d="M884 201L883 -74" stroke-width="5" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 2.7s; --delayTime: 1.32s"></path>
+        <path d="M295 429L294 93" stroke-width="6" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 2.23s; --delayTime: 0.99s"></path>
+        <path d="M371 281L370 -85" stroke-width="8" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 3.45s; --delayTime: 1.23s"></path>
+        <path d="M95 313L94 -58" stroke-width="4" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 1.23s; --delayTime: 3.3s"></path>
+        <path d="M675 136L674 313" stroke-width="6" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 2.46s; --delayTime: 2.35s"></path>
+        <path d="M1201 232L1200 515" stroke-width="8" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 3.65s; --delayTime: 1.33s"></path>
+        <path d="M317 325L316 525" stroke-width="5" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 2.12s; --delayTime: 0.87s"></path>
+        <path d="M323 508L322 184" stroke-width="4" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 2.58s; --delayTime: 0.65s"></path>
+        <path d="M318 444L317 772" stroke-width="3" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 3.65s; --delayTime: 1.12s"></path>
+        <path d="M1302 187L1301 -142" stroke-width="2" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 4.56s; --delayTime: 0.87s"></path>
+        <path d="M229 138L228 -233" stroke-width="3" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 2.56s; --delayTime: 1.21s"></path>
+        <path d="M499 63L498 -308" stroke-width="6" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 1.65s; --delayTime: 3.25s"></path>
+        <path d="M740 78L739 387" stroke-width="6" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 2.56s; --delayTime: 4.38s"></path>
+        <path d="M17 259L16 -143" stroke-width="3" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 3.69s; --delayTime: 1.68s"></path>
+        <path d="M335 500L334 773" stroke-width="4" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 2.1s; --delayTime: 2.45s"></path>
+        <path d="M1410 556L1409 824" stroke-width="6" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 1.65s; --delayTime: 3.1s"></path>
+        <path d="M64 553L63 912" stroke-width="8" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 3.6s; --delayTime: 1.32s"></path>
+        <path d="M1370 546L1369 875" stroke-width="6" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 2.1s; --delayTime: 0.87s"></path>
+        <path d="M942 243L941 -104" stroke-width="6" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 4s; --delayTime: 1.01s"></path>
+        <path d="M605 551L604 762" stroke-width="10" stroke="url(#SvgjsLinearGradient1014)" stroke-linecap="round" class="Down" style="--rain-duration: 1.99s; --delayTime: 2.3s"></path>
+        <path d="M248 209L247 -195" stroke-width="4" stroke="url(#SvgjsLinearGradient1013)" stroke-linecap="round" class="Down" style="--rain-duration: 2.6s; --delayTime: 1.3s"></path>
         <path d="M1087 12L1086 357" stroke-width="8" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.23s; --delayTime: 0.24s"></path>
         <path d="M171 534L170 746" stroke-width="5" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.26s; --delayTime: 0.23s"></path>
-        <path d="M237 43L236 -145" stroke-width="3" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:0.92s; --delayTime: 0.31s"></path>
-        <path d="M523 511L522 919" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.21s; --delayTime: 0.45s"></path>
+        <path d="M237 43L236 -145" stroke-width="3" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:3.92s; --delayTime: 0.31s"></path>
+        <path d="M523 511L522 919" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.21s; --delayTime: 0.45s"></path>
         <path d="M1147 395L1146 745" stroke-width="8" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.6s; --delayTime: 0.21s"></path>
-        <path d="M829 523L828 221" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:0.975s; --delayTime: 0.2s"></path>
-        <path d="M1401 98L1400 428" stroke-width="8" stroke="url(#SvgjsLinearGradient1059)" stroke-linecap="round" class="Down" style="--rain-duration:1.21s; --delayTime: 0.64s"></path>
-        <path d="M319 518L318 778" stroke-width="2" stroke="url(#SvgjsLinearGradient1059)" stroke-linecap="round" class="Down" style="--rain-duration:0.885s; --delayTime: 0.79s"></path>
+        <path d="M829 523L828 221" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.975s; --delayTime: 0.2s"></path>
+        <path d="M1401 98L1400 428" stroke-width="8" stroke="url(#SvgjsLinearGradient1059)" stroke-linecap="round" class="Down" style="--rain-duration:3.21s; --delayTime: 0.64s"></path>
+        <path d="M319 518L318 778" stroke-width="2" stroke="url(#SvgjsLinearGradient1059)" stroke-linecap="round" class="Down" style="--rain-duration:2.885s; --delayTime: 0.79s"></path>
         <path d="M520 464L519 147" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.42s; --delayTime: 0.23s"></path>
         <path d="M1043 115L1042 374" stroke-width="5" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.26s; --delayTime: 0.6s"></path>
-        <path d="M618 22L617 -322" stroke-width="8" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.134s; --delayTime: 0.43s"></path>
-        <path d="M551 32L550 425" stroke-width="8" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.12s; --delayTime: 0.5s"></path>
-        <path d="M211 37L210 -338" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.13s; --delayTime: 0.13s"></path>
-        <path d="M1157 324L1156 169" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1s; --delayTime: 0.3s"></path>
-        <path d="M1341 527L1340 857" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.3s; --delayTime: 0.46s"></path>
-        <path d="M1016 473L1015 844" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.23s; --delayTime: 0.67s"></path>
+        <path d="M618 22L617 -322" stroke-width="8" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.134s; --delayTime: 0.43s"></path>
+        <path d="M551 32L550 425" stroke-width="8" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.12s; --delayTime: 0.5s"></path>
+        <path d="M211 37L210 -338" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.13s; --delayTime: 2.13s"></path>
+        <path d="M1157 324L1156 169" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2s; --delayTime: 1.3s"></path>
+        <path d="M1341 527L1340 857" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.3s; --delayTime: 0.46s"></path>
+        <path d="M1016 473L1015 844" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.23s; --delayTime: 0.67s"></path>
         <path d="M1383 408L1382 564" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.46s; --delayTime: 0.25s"></path>
-        <path d="M594 434L593 643" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.65s; --delayTime: 0.36s"></path>
-        <path d="M635 490L634 671" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.12s; --delayTime: 0.64s"></path>
-        <path d="M607 364L606 651" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.23s; --delayTime: 0.54s"></path>
-        <path d="M292 99L291 393" stroke-width="3" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:1.11s; --delayTime: 0.79s"></path>
+        <path d="M594 434L593 643" stroke-width="2" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.65s; --delayTime: 0.36s"></path>
+        <path d="M635 490L634 671" stroke-width="4" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:3.12s; --delayTime: 0.64s"></path>
+        <path d="M607 364L606 651" stroke-width="6" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:2.23s; --delayTime: 0.54s"></path>
+        <path d="M292 99L291 393" stroke-width="3" stroke="url(#SvgjsLinearGradient1170)" stroke-linecap="round" class="Down" style="--rain-duration:4.11s; --delayTime: 0.79s"></path>
     </g>
     <defs>
         <mask id="SvgjsMask1169">
@@ -55,13 +91,14 @@
             <stop stop-color="#1c538e" offset="1"></stop>
         </linearGradient>
         <style>
-        @keyframes rain {
-                0%{transform: translateY(-80vh)}
-                100%{transform: translateY(100vh)}
-            }
             .Down{
+                transform: translateY(-300vh);
                 animation: rain var(--rain-duration) infinite;
                 animation-delay: var(--delayTime);
+            }
+            @keyframes rain {
+                0%{transform: translateY(-300%)}
+                100%{transform: translateY(200%)}
             }
         </style>
     </defs>

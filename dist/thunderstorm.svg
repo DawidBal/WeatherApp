@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width='110%' height='110%' viewBox="15 0 1440 560">
+    <g mask="url(&quot;#SvgjsMask1030&quot;)" fill="none">
+        <rect width="110%" height="110%" x="0" y="0" fill="rgba(14, 42, 71, 1)"></rect>
+        <path d="M1536 560L0 560 L0 306.1Q60.62 246.73, 120 307.35Q179.63 294.99, 192 354.62Q216.53 259.15, 312 283.69Q386.69 238.38, 432 313.07Q479.68 288.75, 504 336.43Q558.46 318.89, 576 373.36Q601.87 327.23, 648 353.1Q673.67 306.77, 720 332.45Q757.39 249.84, 840 287.23Q892.47 267.7, 912 320.17Q956.68 292.85, 984 337.53Q1058.76 292.29, 1104 367.05Q1111.93 302.98, 1176 310.91Q1230.53 245.44, 1296 299.96Q1367.14 251.11, 1416 322.25Q1487.56 273.81, 1536 345.36z"
+         class="move-left" fill="rgba(6, 32, 60, 1)" style="--duration: 7.8s; --xAxis: -10px; --yAxis: -5px; --delayTime: 0.45s"></path>
+        <path d="M1536 560L0 560 L0 359.7Q83.39 323.09, 120 406.48Q163.46 329.94, 240 373.4Q308.13 321.53, 360 389.67Q428.08 337.75, 480 405.83Q500.81 354.64, 552 375.45Q582.8 334.25, 624 365.06Q678.94 348, 696 402.94Q725.41 360.35, 768 389.76Q839.76 341.52, 888 413.28Q905.51 358.79, 960 376.3Q1002.84 347.13, 1032 389.97Q1101.3 339.26, 1152 408.56Q1201.99 386.55, 1224 436.54Q1243.55 336.09, 1344 355.64Q1387.99 327.63, 1416 371.62Q1501.81 337.43, 1536 423.24z" 
+        class="move-right" fill="rgba(27, 46, 80, 1)" style="--duration: 7.5s; --xAxis: 4px; --yAxis: 9px; --delayTime: 0.3s"></path>
+        <path d="M1488 560L0 560 L0 474.3Q43.29 445.59, 72 488.87Q139.2 436.07, 192 503.27Q226.98 418.25, 312 453.22Q338.87 408.09, 384 434.95Q478.15 409.1, 504 503.25Q520.5 447.75, 576 464.24Q622.43 438.68, 648 485.11Q661.92 427.03, 720 440.95Q793.89 394.84, 840 468.73Q868.59 425.32, 912 453.91Q993.74 415.65, 1032 497.39Q1033.11 426.5, 1104 427.61Q1157.15 408.76, 1176 461.92Q1260.58 426.5, 1296 511.08Q1323.63 418.72, 1416 446.35Q1466.19 424.55, 1488 474.74z" 
+        class="move-left" fill="#234876" style="--duration: 6.9s; --xAxis: 14px; --yAxis: 6px; --delayTime: 0.55s"></path>
+        <path d="M1488 560L0 560 L0 579.85Q30.73 538.58, 72 569.3Q109.22 486.52, 192 523.74Q257.71 469.45, 312 535.17Q355.96 507.13, 384 551.08Q436.69 531.77, 456 584.45Q483.33 539.78, 528 567.1Q570.95 490.05, 648 532.99Q662.93 475.92, 720 490.85Q766.23 465.08, 792 511.31Q858.54 457.85, 912 524.38Q982.98 475.36, 1032 546.34Q1041.68 484.02, 1104 493.71Q1170.64 440.36, 1224 507Q1293.58 504.58, 1296 574.16Q1361.3 519.46, 1416 584.76Q1421.86 518.62, 1488 524.48z" 
+        class="move-right" fill="rgba(90, 90, 90, 1)" style="--duration: 6.6s; --xAxis: -19px; --yAxis: 6px"></path>
+    </g>
+    <defs>
+        <mask id="SvgjsMask1030">
+            <rect width="1440" height="560" fill="#ffffff"></rect>
+        </mask>
+        <style>
+            .move-left {
+                animation: moveLeft var(--duration) infinite;
+                animation-timing-function: ease;
+                animation-delay: var(--delayTime);
+            }
+            .move-right {
+                animation: moveRight var(--duration) infinite;
+                animation-timing-function: ease;
+                animation-delay: var(--delayTime);
+            }
+            @keyframes moveLeft {
+                0%{transform: translate(0, 0)}
+                50%{transform: translate(var(--xAxis), var(--yAxis))}
+                100%{transform: translate(0, 0)}
+            }
+            @keyframes moveRight {
+                0%{transform: translate(0, 0)}
+                50%{transform: translate(var(--xAxis), var(--yAxis))}
+                100%{transform: translate(0, 0)}
+            }
+        </style>
+    </defs>
+</svg>
