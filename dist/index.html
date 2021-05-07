@@ -17,27 +17,46 @@
     <header>
 
     </header>
-    <main>
-        <div class="search-form">
-            <label for="city"></label>
-            <input id="city" type="text" placeholder="Enter a city">
-            <button>Search</button>
-        </div>
+    <main class="main l-flex">
         <section class="data">
+            <p class="data__weather normal js-weather">Sunny</p>
             <h2 class="data__city js-cityName">City</h2>
-            <p class="data__temp l-flex js-dataTemp">00<span class="temp-symbol small">°C</span></p>
-            <p class="data__feels-like normal l-flex">Feels Like: <span class="js-feelsLike"></span><span
-                    class="temp-symbol small">°C</span>
-            </p>
-            <p class="data__humidity normal l-flex">Humidity: <span class="js-humidity"></span><span
-                    class="small">%</span>
-            </p>
-            <div class="toggleTemp">
+            <p class="data__temp l-flex js-dataTemp">00<span class="temp-symbol temp-symbol--main small">°C</span></p>
+            <div class="data__feels-like">
+                <p class="title">Feels like:</p>
+                <div class="data__value l-flex">
+                    <span class="js-feelsLike">00</span>
+                    <span class="temp-symbol small">°C</span>
+                </div>
+            </div>
+            <div class="data__humidity">
+                <p class="title">Humidity:</p>
+                <div class="data__value">
+                    <span class="js-humidity">00</span><span class="">%</span>
+                </div>
+            </div>
+            <div class="data__pressure">
+                <p class="data__pressure title">Pressure:</p>
+                <div class="data__value">
+                    <span class="js-pressure">00</span><span class=""> hPa</span>
+                </div>
+            </div>
+            <div class="metric">
                 <label for="temp">°F / °C</label>
                 <input id="temp" type="checkbox" name="">
             </div>
             <p></p>
         </section>
+        <div class="search-form l-flex">
+            <label for="city">
+                <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path
+                        d="M23.809 21.646l-6.205-6.205c1.167-1.605 1.857-3.579 1.857-5.711 0-5.365-4.365-9.73-9.731-9.73-5.365 0-9.73 4.365-9.73 9.73 0 5.366 4.365 9.73 9.73 9.73 2.034 0 3.923-.627 5.487-1.698l6.238 6.238 2.354-2.354zm-20.955-11.916c0-3.792 3.085-6.877 6.877-6.877s6.877 3.085 6.877 6.877-3.085 6.877-6.877 6.877c-3.793 0-6.877-3.085-6.877-6.877z" />
+                </svg>
+            </label>
+            <input class="search-city" id="city" type="text" placeholder="Enter a city">
+            <button class="btn">Search</button>
+        </div>
     </main>
 
 </body>

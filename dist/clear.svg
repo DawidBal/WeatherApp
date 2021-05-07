@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width='100%' height='100%' viewBox="0 0 1440 560">
+    <g mask="url(&quot;#SvgjsMask1000&quot;)" fill="none">
+        <rect width="1440" height="560" x="0" y="0" fill="#0e2a47"></rect>
+        <path d="M720 711.46C840.73 715.74 971.4 702.18 1055.04 615.04 1137.62 528.98 1147.07 398.56 1134.12 280 1122.59 174.7 1065.27 84.47 988.97 11.03 914.41-60.75 823.46-116.54 720-118.68 614.6-120.86 517.53-71.42 439.67-0.33 357.56 74.67 289.42 168.96 283.47 280 277.25 396.25 325.12 510.25 407.91 592.09 490.26 673.48 604.3 707.35 720 711.46" class="clear" style="--duration: 8.1s; --rotate: 8deg" fill="#1c538e"></path>
+        <path d="M720 559.18C798.12 561.95 882.67 553.17 936.79 496.79 990.23 441.11 996.34 356.71 987.96 280 980.5 211.87 943.41 153.48 894.04 105.96 845.8 59.52 786.95 23.41 720 22.03 651.8 20.62 588.99 52.61 538.61 98.61 485.48 147.14 441.39 208.15 437.54 280 433.52 355.22 464.49 428.98 518.06 481.94 571.35 534.61 645.13 556.52 720 559.18" class="clear" style="--duration: 7.7s; --rotate: 10deg" fill="rgba(37, 112, 193, 1)"></path>
+        <path d="M720 406.9C755.51 408.16 793.94 404.17 818.54 378.54 842.83 353.23 845.61 314.87 841.8 280 838.41 249.03 821.55 222.49 799.11 200.89 777.18 179.78 750.43 163.37 720 162.74 689 162.1 660.45 176.64 637.55 197.55 613.4 219.61 593.36 247.34 591.61 280 589.78 314.19 603.86 347.72 628.21 371.79 652.43 395.73 685.97 405.69 720 406.9" class="clear" style="--duration: 7.43s; --rotate: 9deg" fill="#488fdb"></path>
+    </g>
+    <defs>
+        <mask id="SvgjsMask1000">
+            <rect width="1440" height="560" fill="#ffffff"></rect>
+        </mask>
+        <style>
+
+        .clear {
+            animation: swell var(--duration) infinite;
+            animation-timing-function: ease;
+            animation-delay: var(--delayTime);
+        }
+
+        @keyframes swell {
+            0%, 100% {
+            transform: translate3d(7px,-10px,6px) rotate(0deg);
+            
+            }
+            50% {
+            transform: translate3d(0,5px,10px) rotateX(var(--rotate));
+            }
+        }
+        </style>
+    </defs>
+</svg>
