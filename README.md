@@ -33,3 +33,4 @@ Project from [The Odin Project](https://www.theodinproject.com).
 * Used JS to build app logic, and manipulate DOM
 * Used asynchronous code to gather information from API
 * Tested project on PC versions of **Firefox** and **Chrome**
+### Note! Found some problems with performance on **Firefox v89.0**, works smoothly on Edge/Chrome/Opera
